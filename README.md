@@ -3,7 +3,7 @@
 
 # 📁 Requirements
 + [Visual Studio](https://visualstudio.microsoft.com/) installed with .NET framework.
-+ Windows 10 or higher versions
++ Windows 10 or higher versions.
 
 # 🔥 Features
 + **🌱 Running in background:** The program will run in the background!!!
@@ -14,9 +14,9 @@
 + **💬 Messages:** Using the "message" slash command will send a message to the computer.
 
 # 📖 Instructions
-1. Create a discord bot in the [discord developer portal](https://discord.com/developers/applications)
+1. Create a discord bot in the [discord developer portal](https://discord.com/developers/applications).
 
-2. Copy the bot token and place it on line 45 of the [program.cs](https://github.com/NotSyscall/Yakumo/blob/main/Yakumo/Program.cs) file
+2. Copy the bot token and place it on line 45 of the [program.cs](https://github.com/NotSyscall/Yakumo/blob/main/Yakumo/Program.cs) file.
 > ![image](https://github.com/user-attachments/assets/b90cde42-63f2-4a28-87d2-6650e12b6fd1)
 
 3. Run or build the project.
